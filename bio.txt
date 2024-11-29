@@ -1,0 +1,5 @@
+biodata
+
+nama	: marsel christian junior
+kelas	: 4ia26
+npm	: 51421646
